@@ -81,4 +81,9 @@ Kita akan mengulas secara singkat perintah-perintah yang sering kita gunakan dal
 
 - merge : menggabungkan lebih dari satu commit
 
+
+##Berbagai link pembelajaran git dan github
+https://www.petanikode.com/tutorial/git/
+https://www.youtube.com/watch?v=lTMZxWMjXQU - Sandika Galih
+
   ​
